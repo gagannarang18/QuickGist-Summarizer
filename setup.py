@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "QuickGist-Summarizer"
 AUTHOR_USER_NAME = "gagannarang18"
-SRC_REPO = "QUICKGIST-SUMMARIZER"
+SRC_REPO = "QUICKGIST_SUMMARIZER"
 AUTHOR_EMAIL = "gagannarang0804@gmail.com"
 
 
